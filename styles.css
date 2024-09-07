@@ -73,7 +73,7 @@ body {
 
 .intro-section {
     background-color: #fdfdfd;
-    padding: 60px 0;
+    padding: 60px 16px;
     text-align: center;
 }
 
@@ -124,6 +124,8 @@ section {
     max-width: 40%;
     position: relative;
     overflow: hidden;
+    background-size: cover;
+    background-position: center center;
 }
 
 .project img {
@@ -201,6 +203,10 @@ footer {
     .project-image-container,
     .project-info {
         max-width: 100%;
+    }
+
+    .project-image-container {
+        padding-bottom: 40%;
     }
 }
 
