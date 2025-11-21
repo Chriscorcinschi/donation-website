@@ -1,14 +1,14 @@
-# Rust2Dakar - Sito Donazioni
+# Donations Site
 
-Sito web per la campagna di raccolta fondi "Da Roma a Dakar: Un'Odissea di Solidarietà".
+Website for the fundraising campaign "From Rome to Dakar: An Odyssey of Solidarity".
 
-## 🛠️ Tecnologie Utilizzate
+## 🛠️ Technologies Used
 
--  **HTML5** - Struttura semantica e accessibile
--  **CSS3** - Styling responsive e moderno
--  **GoFundMe** - Integrazione widget per donazioni
--  **Meta Tag SEO** - Ottimizzazione per motori di ricerca
--  **Open Graph** - Condivisione ottimizzata sui social media
+-  **HTML5** - Semantic and accessible structure
+-  **CSS3** - Responsive and modern styling
+-  **GoFundMe** - Widget integration for donations
+-  **Meta Tag SEO** - Search Engine Optimization
+-  **Open Graph** - Optimized social media sharing
 
 ## 📁 Files
 
