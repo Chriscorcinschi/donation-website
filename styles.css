@@ -22,7 +22,7 @@ section {
    width: 100%;
    height: 100vh;
    max-height: 900px;
-   background: url("mom.jpg") no-repeat center center;
+   background: url("./src/mom.jpg") no-repeat center center;
    background-size: cover;
 }
 
